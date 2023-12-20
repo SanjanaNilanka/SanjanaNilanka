@@ -41,7 +41,7 @@
 <br>
 
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
-[![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=000000)](#)
+[![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=white&logo=express&logoColor=000000)](#)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Springboot Badge](https://img.shields.io/badge/-springboot-69ad3c?style=for-the-badge&labelColor=black&logo=spring&logoColor=69ad3c)](#)
 [![Flutter Badge](https://img.shields.io/badge/-flutter-5ac2f0?style=for-the-badge&labelColor=black&logo=flutter&logoColor=5ac2f0)](#)
