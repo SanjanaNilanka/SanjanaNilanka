@@ -3,13 +3,7 @@
 
 
 <div align="center">
-💻 Passionate about coding, problem-solving, and exploring the endless possibilities of technology.
-
-🌱 Constantly learning and honing my skills in software development.
-
-🚀 Building innovative solutions and striving to make a positive impact through my work.
-
-🌟 Let's connect and collaborate to create something amazing!
+I am passionate and energetic Software Engineering Undergraduate at Sri Lanka Institute of Information Technology who is looking for a dynamic and stimulating software development internship, where I can dive into real-world projects and learn from industry experts
 
 <br>
 
@@ -23,6 +17,7 @@
 [![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#)
 [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
+[![Dart Badge](https://img.shields.io/badge/-Dart-03589c?style=for-the-badge&labelColor=black&logo=dart&logoColor=03589c)](#)
 
 <br>
 
@@ -62,7 +57,22 @@
 <br>
 
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
+[![MySQL Badge](https://img.shields.io/badge/-Firebase-ffcb2a?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffcb2a)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+[![MySQL Badge](https://img.shields.io/badge/-SQLite-2a8dce?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=2a8dce)](#)
+
+<br>
+
+### Tools
+
+<br>
+
+[![VScode Badge](https://img.shields.io/badge/-VS%20Code-1b84ca?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=1b84ca)](#)
+[![VS Badge](https://img.shields.io/badge/-Visual%20Studio-704ea7?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=704ea7)](#)
+[![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&labelColor=black&logo=androidstudio&logoColor=3ddc84)](#)
+[![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2b2152?style=for-the-badge&labelColor=black&logo=eclipse&logoColor=2b2152)](#)
+[![Figma Badge](https://img.shields.io/badge/-Figma-19b6f6?style=for-the-badge&labelColor=black&logo=figma&logoColor=19b6f6)](#)
+[![Postman Badge](https://img.shields.io/badge/-Postman-f76935?style=for-the-badge&labelColor=black&logo=postman&logoColor=f76935)](#)
 
 <br>
 
