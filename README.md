@@ -78,18 +78,18 @@ I am passionate and energetic Software Engineering Undergraduate at Sri Lanka In
 
 ### Github Stats
 
-![](https://streak-stats.demolab.com?user=HasinduRanasinghe&theme=transparent&hide_border=true&mode=weekly)
+![](https://streak-stats.demolab.com?user=SanjanaNilanka&theme=transparent&hide_border=true&mode=weekly)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=hasinduranasinghe&layout=donut&theme=transparent&hide_border=true&text_color=2f80ed&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=SanjanaNilanka&layout=donut&theme=transparent&hide_border=true&text_color=2f80ed&hide_title=true)
 
 <br>
 <br>
 
 ### Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hasinduranasinghe&layout=donut&theme=transparent&hide_border=true&text_color=2f80ed&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=SanjanaNilanka&layout=donut&theme=transparent&hide_border=true&text_color=2f80ed&hide_title=true)
 
 
 </div>
