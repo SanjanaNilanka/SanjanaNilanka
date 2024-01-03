@@ -3,7 +3,7 @@
 
 
 <div align="center">
-I am passionate and energetic Software Engineering Undergraduate at Sri Lanka Institute of Information Technology who is looking for a dynamic and stimulating software development internship, where I can dive into real-world projects and learn from industry experts
+I am a dedicated and passionate individual with a keen interest in web and mobile development. I thrive on creating immersive and user-friendly digital experiences that push the boundaries of innovation. My journey in the world of technology has been shaped by my enthusiasm for building impactful applications that make a difference. 
 
 <br>
 
